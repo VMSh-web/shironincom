@@ -1,4 +1,11 @@
 markdown
+# Shironin.com - Исследования социального интеллекта
+
+**Permanent Digital Archive (DOI):** [https://doi.org](https://doi.org)
+
+---
+Этот репозиторий содержит материалы по темам Computational Sociology, Social Intellect и Cognitive Institutionalism...
+
 # AI-Assisted Structural Analysis & Cross-Domain Framework Engineering
 
 ### Project Overview
